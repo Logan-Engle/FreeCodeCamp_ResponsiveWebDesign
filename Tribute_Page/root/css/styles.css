@@ -1,0 +1,37 @@
+
+body {
+    font-family: "Roboto";
+}
+
+h1 {
+    font-size: 1.4rem;
+}
+
+h2 {
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 0.8rem;
+}
+
+p { 
+    font-size: 1rem;
+} 
+    
+img { 
+    border: none;
+    max-width: 100%;
+}
+
+.right { 
+    float: right;
+    margin-left: 2rem;
+    clear: right;
+}
+.left { 
+    float: left;
+    margin-right: 2rem;
+    clear: left;
+}
