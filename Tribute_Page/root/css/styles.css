@@ -3,10 +3,10 @@ html {
 }
 
 #main {
-    margin: 30px 8px;
-    padding: 15px;
-    border-radius: 5px;
-    background: #eee;
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
 }
 
 body {
@@ -57,10 +57,7 @@ a:visited {
 }
 
 img {
-  max-width: 100%;
   display: block;
-  height: auto;
-  margin: 0 auto;
 }
 
 #img-div {
@@ -69,9 +66,11 @@ img {
   margin: 0;
 }
 
-#img {
-  width: 800px;
-  height: 600px;
+#image {
+  max-width: 100%;
+  width: 50%;
+  height: auto;
+  margin: 0 auto;
 }
 
 #img-caption {
@@ -95,5 +94,5 @@ figure {
 }
 
 #information {
-    margin: 0% 30% 0% 30%;
+  margin: 0% 30% 0% 30%;
 }
